@@ -3,7 +3,7 @@
 CDS 4003 - Data Science for Business Applications | Higher Colleges of Technology
 Instructor: Dr Zakea Ilagure | CRN 16009 | Group 7
 
-**Live app:** https://REPLACE-WITH-YOUR-APP-NAME.streamlit.app
+**Live app:** https://cds4003-us-accidents.streamlit.app
 
 ## Business problem
 
