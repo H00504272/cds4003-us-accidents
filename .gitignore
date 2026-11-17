@@ -1,0 +1,6 @@
+data/US_Accidents_March23_sampled_500k.csv
+data/US_Accidents_clean.csv
+data/*.pkl
+notebooks/figs/
+__pycache__/
+.ipynb_checkpoints/
