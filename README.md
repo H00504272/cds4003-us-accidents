@@ -22,8 +22,8 @@ Severity 4 alerts are false alarms.
 | Member | Student ID | Stages |
 |---|---|---|
 | Rashed Abdulla Al Qersi Al Ali | H00504272 | 1 Business problem, 2 Data selection, 3 Data cleaning. Also created the repository and the Streamlit app. |
-| Ahmed Salem ALHebsi | H00444458 | 4 EDA and feature engineering, 5 Model selection |
-| Khalifa Ali Alketbi | H00478241 | 6 Tuning and evaluation, 7 Deployment and business value |
+| Ahmed Salem ALHebsi | H00478241 | 4 EDA and feature engineering, 5 Model selection |
+| Khalifa Ali Alketbi | H00444458 | 6 Tuning and evaluation, 7 Deployment and business value |
 
 See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for details. The files of Ahmed and Khalifa were uploaded from Rashed's account.
 
