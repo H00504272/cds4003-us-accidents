@@ -25,7 +25,7 @@ Severity 4 alerts are false alarms.
 | Ahmed Salem ALHebsi | H00478241 | 4 EDA and feature engineering, 5 Model selection |
 | Khalifa Ali Alketbi | H00444458 | 6 Tuning and evaluation, 7 Deployment and business value |
 
-See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for details. Ahmed uploaded his EDA notebook (01b_eda_findings.ipynb) from his own account. The other files of Ahmed and Khalifa were uploaded from Rashed's account.
+See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for details. Ahmed uploaded his EDA notebook (01b_eda_findings.ipynb) from his own account.
 
 ## Dataset
 
