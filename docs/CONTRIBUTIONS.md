@@ -2,7 +2,7 @@
 
 Group 7, CDS 4003 Data Science for Business Applications (CRN 16009).
 
-The three members split the seven stages of the project. The files of Ahmed and Khalifa were uploaded from Rashed's account (H00504272), because only this account had access to the repository when it was created. The one exception is Ahmed's EDA notebook (`notebooks/01b_eda_findings.ipynb`), which Ahmed uploaded from his own account (ahmed11alhebsii) on 25 November 2026. The work in their parts is theirs.
+The three members split the seven stages of the project. Ahmed uploaded the Stage 4 EDA notebook (`notebooks/01b_eda_findings.ipynb`) from his account (ahmed11alhebsii) on 25 November 2026.
 
 | Member | HCT ID | Stages |
 |---|---|---|
