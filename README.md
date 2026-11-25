@@ -25,7 +25,7 @@ Severity 4 alerts are false alarms.
 | Ahmed Salem ALHebsi | H00478241 | 4 EDA and feature engineering, 5 Model selection |
 | Khalifa Ali Alketbi | H00444458 | 6 Tuning and evaluation, 7 Deployment and business value |
 
-See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for details. The files of Ahmed and Khalifa were uploaded from Rashed's account.
+See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for details. Ahmed uploaded his EDA notebook (01b_eda_findings.ipynb) from his own account. The other files of Ahmed and Khalifa were uploaded from Rashed's account.
 
 ## Dataset
 
@@ -40,7 +40,7 @@ See [docs/CONTRIBUTIONS.md](docs/CONTRIBUTIONS.md) for details. The files of Ahm
 
 ```
 data/        dataset notes, a small sample (the full CSV goes here, not on GitHub)
-notebooks/   01_data_preparation.ipynb, 02_model_building.ipynb
+notebooks/   01_data_preparation.ipynb, 01b_eda_findings.ipynb, 02_model_building.ipynb
 src/         prep.py (data preparation function), train_light_model.py (model for the app)
 app/         app.py (Streamlit app)
 models/      severity_model.joblib, duration_model.joblib, model_info.json
